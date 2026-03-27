@@ -22,7 +22,7 @@ class AnaliseDocumento(BaseModel):
     objetivo: str = Field(description="O objetivo principal ou propósito do documento.")
     solucao: str = Field(description="A solução central proposta ou implementada para resolver o problema.")
     metodologia: str = Field(description="Resumo da metodologia, métodos ou passos utilizados.")
-    profissionais_tecnicos: List[str] = Field(description="Lista com os cargos ou profissionais técnicos necessários mencionados no texto.")
+    profissionais_tecnicos: List[str] = Field(description="Lista com os cargos ou profissionais técnicos que são necessários para realizar o estudo ou relatório analisado.")
     area_expertise: str = Field(description="A área macro de expertise (Ex: Engenharia de Software, Saúde Pública, Agronomia, etc).")
 
 # 3. TEXTO DE TESTE
@@ -73,7 +73,7 @@ def analisar_documento(texto: str):
 
 if __name__ == "__main__":
     # Substitua pelo nome ou caminho do seu arquivo PDF real
-    caminho_do_meu_pdf = "Relatório Analítico - MFE.pdf" 
+    caminho_do_meu_pdf = "documentos/Carnaval-de-Dados-2026.pdf" 
     
     if os.path.exists(caminho_do_meu_pdf):
         # 1. Extrai o texto do PDF

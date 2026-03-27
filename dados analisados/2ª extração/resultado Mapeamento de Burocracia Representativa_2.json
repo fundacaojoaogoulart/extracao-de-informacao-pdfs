@@ -1,0 +1,19 @@
+{
+    "problema": "A escassez de dados e análises sobre o perfil dos servidores públicos, especialmente no nível municipal, resulta em um debate pouco embasado, dificultando a compreensão e a implementação de soluções assertivas para a gestão de pessoas no serviço público e prejudicando a transparência e a representatividade da administração pública.",
+    "objetivo": "Consolidar, analisar, diagnosticar e divulgar dados qualificados sobre o perfil sociodemográfico (gênero, raça/cor, escolaridade, idade) dos gestores públicos da Prefeitura da Cidade do Rio de Janeiro, avaliar a representatividade da burocracia em relação à população da cidade e analisar a distribuição nas capacitações em gestão e liderança. Busca-se também estabelecer uma base para o diálogo, outros estudos e fomentar a transparência periódica de dados similares em outras administrações.",
+    "solucao": "A produção e disseminação de um relatório de mapeamento de burocracia representativa da Prefeitura do Rio, que consolida, analisa e diagnostica dados primários e demográficos sobre o perfil dos servidores e gestores, com foco na representatividade passiva (demográfica).",
+    "metodologia": "O estudo seguiu quatro etapas principais: (1) Obtenção dos dados, solicitando acesso a bases de dados anonimizadas de servidores (ERGON, COMLURB, Censo dos Gestores, Programas Líderes Cariocas e Rio Liderança Feminina, Capacitações FJG) e dados demográficos do Censo IBGE 2022. (2) Análise dos dados, incluindo limpeza, análises estatísticas descritivas (cruzamentos e filtros), observações analíticas comparativas (servidores vs. população, gestores vs. servidores) e apresentações internas para feedbacks. (3) Redação, revisão, diagramação e publicação do relatório, utilizando uma abordagem de storytelling de gestão.",
+    "profissionais_tecnicos": [
+        "Coordenador de Desenvolvimento de Projetos e Transversalidade",
+        "Líder Carioca",
+        "Assistentes",
+        "Presidente",
+        "Coordenadora de Gestão de Liderança",
+        "Coordenadora de Capacitação e Desenvolvimento",
+        "Assessor",
+        "Coordenador de Dados e Comportamento",
+        "Servidores públicos",
+        "Gestores públicos"
+    ],
+    "area_expertise": "Administração Pública"
+}

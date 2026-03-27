@@ -1,0 +1,26 @@
+{
+    "problema": "A complexidade da gestão e operação do Carnaval do Rio de Janeiro, um evento de grande escala que exige a atuação integrada de múltiplos órgãos da administração pública, e a necessidade de sistematizar e analisar dados para demonstrar seu impacto econômico, social e cultural, além da falta de reconhecimento formal (CNAE/CBO) para as atividades e profissões ligadas à economia do Carnaval.",
+    "objetivo": "Reunir e apresentar informações detalhadas sobre o planejamento, a execução e a atuação dos diversos órgãos da Prefeitura do Rio de Janeiro envolvidos na realização do Carnaval, evidenciar o retorno econômico gerado pelo evento para a cidade e justificar o investimento público, além de consolidar o Carnaval como uma política pública e parte da cultura de inovação na gestão pública carioca.",
+    "solucao": "A criação e publicação anual do estudo 'Carnaval de Dados', que utiliza a metodologia GTT (Grupo Transversal de Trabalho) para levantamento, sistematização e análise de dados, e a implementação de um grande esquema operacional com a atuação integrada de 23 órgãos da Administração Pública Municipal e a mobilização de milhares de servidores.",
+    "metodologia": "A metodologia GTT (Grupo Transversal de Trabalho) foi utilizada para levantamento, sistematização e análise de dados. A coleta de dados incluiu informações de diversos órgãos da Prefeitura (SMDE, FJG, Riotur, SMF, SMTUR, COR, entre outros) obtidas via e-mail, formulários eletrônicos e imprensa. A análise focou em indicadores econômicos, fluxo turístico, dados operacionais dos blocos e escolas de samba, e a atuação das secretarias e empresas municipais.",
+    "profissionais_tecnicos": [
+        "Líderes Cariocas",
+        "Servidores da Prefeitura",
+        "Audiodescritores",
+        "Tradutores em Libras",
+        "Catadores de materiais recicláveis",
+        "Mestre-Salas",
+        "Porta-Bandeiras",
+        "Passistas",
+        "Integrantes de Comissões de Frente",
+        "Profissionais de saúde",
+        "Profissionais especializadas no enfrentamento à violência contra a mulher",
+        "Funcionários especializados em preparação física e técnica",
+        "Funcionários de limpeza urbana",
+        "Guardas Municipais",
+        "Agentes de trânsito",
+        "Profissionais de design e diagramação",
+        "Coordenadores e assessores de comunicação e imprensa"
+    ],
+    "area_expertise": "Gestão Pública, Economia da Cultura, Turismo e Gestão de Eventos de Grande Escala"
+}

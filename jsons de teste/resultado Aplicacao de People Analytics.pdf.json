@@ -1,0 +1,15 @@
+{
+    "problema": "A necessidade de desenvolver e capacitar gestores públicos municipais para aumentar a eficiência, efetividade e eficácia na gestão pública, dado o grande número de servidores e a complexidade das funções de gestão e liderança na Prefeitura do Rio de Janeiro.",
+    "objetivo": "Apresentar a experiência do Instituto Fundação João Goulart (FJG) na implementação de iniciativas e ações de People Analytics no âmbito da Política Carioca de Desenvolvimento de Gestores (PCDG) entre 2021 e 2024, demonstrando como a utilização de dados orientou a tomada de decisões estratégicas para otimizar recursos e aprimorar as capacitações dos gestores públicos municipais.",
+    "solucao": "Implementação e aplicação de People Analytics dentro da Política Carioca de Desenvolvimento de Gestores (PCDG) para otimizar o planejamento, monitoramento e avaliação das capacitações oferecidas. Isso incluiu a criação do Índice de Capacitação e Desenvolvimento (ICD), a integração de Métodos Multicritério de Apoio à Decisão (MCAD) para seleção de participantes, e o uso de ferramentas de ciência de dados e visualização (como Python e Power BI) para embasar decisões estratégicas.",
+    "metodologia": "A metodologia incluiu a coleta, organização e tratamento de dados institucionais administrativos das ações de capacitação (inscrição, participação, certificação). A seleção de participantes foi realizada por um método multicritério de apoio à decisão (AMD) considerando público-alvo, pertinência ao Programa Líderes Cariocas, equidade e diversidade. Os dados foram limpos, organizados, padronizados e centralizados usando Python, e visualizados em dashboards interativos com Power BI. A abordagem foi fundamentada na Gestão por Competências e Gestão Baseada em Evidências, e o monitoramento das capacitações seguiu o modelo de Kirkpatrick (Reação, Aprendizado, Comportamento e Resultados), com indicadores como Taxa de Conclusão, Taxa de Evasão e o Índice de Capacitação e Desenvolvimento (ICD) experimental.",
+    "profissionais_tecnicos": [
+        "Gestores Públicos Municipais",
+        "Servidores Públicos",
+        "Líderes Cariocas",
+        "Cientistas de dados",
+        "Estatísticos",
+        "Instrutores"
+    ],
+    "area_expertise": "Gestão Pública"
+}

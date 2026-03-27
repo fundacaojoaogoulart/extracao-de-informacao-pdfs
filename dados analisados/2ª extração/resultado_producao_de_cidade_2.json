@@ -1,0 +1,15 @@
+{
+    "problema": "Gestores públicos enfrentam a dificuldade de transformar grandes volumes de dados dispersos em informações objetivas para orientar suas decisões, ressentindo a falta de uma metodologia que analise e aponte evidências consolidadas sobre a tomada de decisão e seus efeitos territoriais, como o impacto de políticas públicas na vida do cidadão.",
+    "objetivo": "Apresentar o desenvolvimento de uma metodologia inovadora e aplicável, com o conceito de Produção de Cidade, para análise de esforço fiscal, considerando arrecadação e políticas públicas implementadas.",
+    "solucao": "A metodologia Produção de Cidade, que integra as decisões do gestor público com as dimensões territorial (intervenções públicas e invenção de lugares) e fiscal (contribuição da população via tributos, especialmente o IPTU). Ela se torna um instrumento para analisar, qualificar e orientar políticas públicas, permitindo compreender o IPTU como indicador das relações entre planejamento urbano e arrecadação, e aproximando a discussão fiscal do cotidiano dos cidadãos.",
+    "metodologia": "A metodologia Produção de Cidade correlaciona a decisão do gestor com a dimensão territorial (intervenções públicas) e a dimensão fiscal (contribuição da população via IPTU). Inclui a seleção e tratamento de dados tributários, socioeconômicos, urbanísticos e orçamentários. Calcula indicadores como o 'Retorno Público per Capita' (investimentos municipais divididos pela população) e o 'Esforço Fiscal Territorial' (comprometimento da renda domiciliar com o IPTU), que são plotados em uma matriz de quadrantes para diagnosticar a situação de cada bairro e orientar decisões políticas para equidade fiscal e territorial.",
+    "profissionais_tecnicos": [
+        "Gestor público",
+        "Coordenador de Desenvolvimento de Projetos e Transversalidade",
+        "Coordenador de Dados e Comportamento",
+        "Assessor",
+        "Estagiário",
+        "Presidente do Instituto Fundação João Goulart"
+    ],
+    "area_expertise": "Planejamento Urbano e Gestão Pública"
+}

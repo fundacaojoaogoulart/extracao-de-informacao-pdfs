@@ -1,0 +1,15 @@
+{
+    "problema": "A necessidade de qualificação e desenvolvimento contínuo de gestores públicos municipais para garantir a eficiência, eficácia e inovação na administração pública, enfrentando desafios complexos, aprimorando a tomada de decisões e o desempenho de equipes, dada a dimensão e importância dos servidores públicos para a economia e políticas globais.",
+    "objetivo": "Apresentar a experiência do Instituto Fundação João Goulart (FJG) na implementação de iniciativas e ações de People Analytics no âmbito da Política Carioca de Desenvolvimento de Gestores (PCDG) entre 2021 e 2024, demonstrando como a utilização de dados orientou a tomada de decisões estratégicas, otimizou recursos e aprimorou as capacitações dos gestores públicos municipais.",
+    "solucao": "A implementação de People Analytics no âmbito da Política Carioca de Desenvolvimento de Gestores (PCDG) da Prefeitura do Rio de Janeiro. Isso incluiu a criação do Índice de Capacitação e Desenvolvimento (ICD), a integração de Métodos Multicritério de Apoio à Decisão (MCAD) para seleção de participantes e a utilização de painéis de dados (dashboards) em Power BI para monitoramento contínuo e tomada de decisões baseadas em evidências.",
+    "metodologia": "Coleta, organização e tratamento sistemático de dados institucionais administrativos provenientes das ações de capacitação (inscrição, participação, certificação) entre 2021 e 2024. Utilização de Métodos Multicritério de Apoio à Decisão (AMD) para seleção de participantes, considerando critérios como público-alvo, pertinência ao Programa Líderes Cariocas, equidade e diversidade. Realização de limpeza, padronização e centralização de dados com Python. Construção de dashboards interativos em Microsoft Power BI. Adoção de princípios de Gestão Baseada em Evidências e avaliação das capacitações seguindo o modelo de Kirkpatrick (Reação, Aprendizado, Comportamento e Resultados), utilizando indicadores como taxa de conclusão, perfil demográfico, Índice de Capacitação e Desenvolvimento (ICD) e avaliação de implementação.",
+    "profissionais_tecnicos": [
+        "Gestores Públicos Municipais",
+        "Líderes Cariocas",
+        "Analistas de Dados",
+        "Estatísticos",
+        "Especialistas em Comportamento Organizacional",
+        "Instrutores"
+    ],
+    "area_expertise": "Gestão Pública"
+}

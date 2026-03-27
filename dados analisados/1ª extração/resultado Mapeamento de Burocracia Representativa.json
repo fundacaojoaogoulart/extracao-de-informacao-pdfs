@@ -1,0 +1,16 @@
+{
+    "problema": "A escassez de produção, análise e divulgação de dados sobre o perfil dos servidores públicos, o que leva a um debate pouco embasado em dados e evidências, prejudicando a compreensão e a formulação de soluções assertivas para a gestão de pessoas no serviço público. Há uma lacuna de dados e análises publicadas oficialmente sobre a burocracia representativa municipal.",
+    "objetivo": "Consolidar, analisar, diagnosticar e divulgar dados qualificados sobre quem são os gestores públicos que atuam no Poder Executivo Municipal da Prefeitura da Cidade do Rio de Janeiro. O estudo busca apontamentos sobre os perfis sociodemográficos dos líderes, a representatividade da burocracia em relação à distribuição populacional da cidade e a distribuição nas capacitações de gestores e aspirantes, com foco na burocracia representativa passiva. Também visa estabelecer uma base para diálogo, outros estudos e políticas públicas mais assertivas de gestão de pessoas.",
+    "solucao": "A solução é a realização e publicação do 'Mapeamento de Burocracia Representativa da Prefeitura da Cidade do Rio de Janeiro'. Este mapeamento utiliza dados primários de bases da própria Prefeitura para analisar o perfil de seus servidores e gestores, especialmente em relação a gênero, raça/cor e escolaridade, comparando-o com a demografia da cidade e com a participação em programas de desenvolvimento. A publicação busca dar transparência a este diagnóstico e fomentar a discussão e a implementação de políticas para uma gestão mais equânime e representativa.",
+    "metodologia": "O estudo seguiu quatro etapas principais: 1) Obtenção dos dados, que envolveu a solicitação anonimizada de bases de dados de servidores (ERGON, COMLURB, Censo dos Gestores, Programas Líderes Cariocas e Rio Liderança Feminina, capacitações do FJG) e dados demográficos do IBGE; 2) Análise dos dados, que incluiu limpeza, análise crítica para coerência e completude, análises estatísticas descritivas (cruzamentos de campos como raça/cor vs sexo vs vencimento, faixa etária vs cargo, etc.), observações analíticas comparativas (servidores vs população, gestores vs servidores, PCRJ vs administração pública brasileira) e reuniões internas para feedbacks; 3) Redação, revisão e diagramação do relatório, com criação de storytelling; e 4) Publicação e divulgação.",
+    "profissionais_tecnicos": [
+        "Coordenador de Desenvolvimento de Projetos e Transversalidade",
+        "Líder Carioca",
+        "Assistente",
+        "Coordenadora de Gestão de Liderança",
+        "Coordenadora de Capacitação e Desenvolvimento",
+        "Assessor",
+        "Coordenador de Dados e Comportamento"
+    ],
+    "area_expertise": "Gestão Pública"
+}

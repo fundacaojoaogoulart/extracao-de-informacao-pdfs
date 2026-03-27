@@ -1,0 +1,18 @@
+{
+    "problema": "A dificuldade histórica na gestão estratégica de pessoas no setor público municipal, especialmente na identificação objetiva de cargos de alto nível estratégico, das habilidades necessárias para esses cargos, na construção de uma metodologia de classificação resiliente a mudanças administrativas, na disponibilização de dados para a alta gestão, e na criação de uma política sucessória para manter a capacidade institucional da Prefeitura da Cidade do Rio de Janeiro.",
+    "objetivo": "Apresentar os resultados analíticos da metodologia desenvolvida e aplicada pelo Instituto Fundação João Goulart para registrar, analisar, classificar e visualizar as funções estratégicas da Prefeitura da Cidade do Rio de Janeiro, visando identificar de forma objetiva e sistemática as funções de maior impacto estratégico e construir mecanismos para garantir a continuidade e o fortalecimento da capacidade institucional da administração pública.",
+    "solucao": "O projeto de Mapeamento de Funções Estratégicas (MFE) que envolveu o desenvolvimento e aplicação de uma metodologia robusta, replicável e transparente para classificar objetivamente 910 funções até o 3º escalão hierárquico da Administração Direta e Autarquias da Prefeitura do Rio de Janeiro, substituindo percepções subjetivas por uma classificação baseada em dados e critérios explícitos.",
+    "metodologia": "A metodologia envolveu a coleta de dados de 910 funções até o 3º escalão hierárquico do Sistema Integrado de Codificação Institucional (SICI), registrados em planilhas digitais. A arquitetura de classificação foi estruturada a partir de quatro atributos fundamentais: Escalão Hierárquico, Áreas de Negócios, Áreas Macro-Temáticas e Tipo da Função. O nível estratégico de cada função foi determinado por uma análise multicritério baseada em cinco critérios-chave (Político, Técnico, Policy Making, Gerencial e Relevância Orçamentária), cada um avaliado por meio de duas perguntas. O nível estratégico final foi derivado de um modelo que pondera os atributos estruturais de cada função com suas pontuações nas dimensões de competência, com consulta a especialistas e análise de dados institucionais.",
+    "profissionais_tecnicos": [
+        "Secretário(a)",
+        "Subsecretário(a)",
+        "Chefe",
+        "Coordenador(a)",
+        "Gerente",
+        "Assessor",
+        "Ouvidor",
+        "Superintendente",
+        "Diretor"
+    ],
+    "area_expertise": "Gestão Pública"
+}

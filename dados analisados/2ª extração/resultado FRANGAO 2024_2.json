@@ -1,0 +1,15 @@
+{
+    "problema": "A dificuldade de entender o impacto econômico da compra de um item de consumo popular (frango assado) na renda dos cariocas, evidenciando grandes disparidades socioeconômicas entre bairros e a influência de novos modelos de negócios como as dark kitchens, além de relacionar esses dados a debates globais sobre trabalho digno e redução de desigualdades.",
+    "objetivo": "Medir e analisar o comprometimento da renda da população do Rio de Janeiro com a compra de frango assado por meio do Índice Frangão Carioca, destacar disparidades econômicas e sociais entre bairros, e subsidiar a compreensão da cidade para inspirar políticas públicas e estratégias de mercado, conectando com pautas como as do G20 e os Objetivos de Desenvolvimento Sustentável.",
+    "solucao": "A criação e publicação anual do \"Índice Frangão Carioca\", que é uma razão numérica entre o preço médio do frangão e a renda média domiciliar per capita por bairro. A solução inclui a atualização da metodologia de coleta de dados (via aplicativos de entrega como iFood), ajuste da renda per capita pela inflação, e a criação de um \"Painel do Índice Frangão Carioca\" online para que os cidadãos possam interagir e gerar suas próprias análises.",
+    "metodologia": "A metodologia consistiu em um fluxo de produção que inclui: 1. Coleta de Dados: Preços de frangos assados coletados diretamente da plataforma iFood (1-3 estabelecimentos por bairro), entre setembro de 2024, usando endereços centróides dos bairros e palavras-chave específicas, registrando o preço com descontos. 2. Tratamento de Dados: Cálculo da Renda Média Ajustada para 2024 (utilizando dados de renda da PnadC/IBGE e Censo 2010/IBGE, ajustada pelo IPCA), e Cálculo do Índice Frangão Carioca (preço médio do frangão do bairro dividido pela renda média domiciliar per capita ajustada do bairro, multiplicado por 100). 3. Análises de Dados: Uso de abordagens descritivas, comparativas e visualização gráfica de dados. 4. Produção do Relatório e Painel: Redação colaborativa do relatório e desenvolvimento do Painel online interativo (Power BI).",
+    "profissionais_tecnicos": [
+        "Coordenador de Dados e Comportamento",
+        "Assessor",
+        "Estagiário",
+        "Jovem Aprendiz",
+        "Economista",
+        "Profissional de Design"
+    ],
+    "area_expertise": "Economia Urbana, Análise de Dados, Políticas Públicas"
+}

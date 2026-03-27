@@ -1,0 +1,17 @@
+{
+    "problema": "O planejamento e a operação complexa de um grande evento cultural como o Carnaval, a necessidade de justificar o expressivo investimento público e a mobilização de milhares de servidores, e a lacuna na classificação nacional de atividades econômicas (CNAE/CBO) para as profissões e atividades do ecossistema do Carnaval, o que dificulta a análise de seus impactos econômicos e a formalização dos trabalhadores.",
+    "objetivo": "Reunir e apresentar informações detalhadas sobre o planejamento, a execução das ações públicas, a atuação dos diversos órgãos da Prefeitura do Rio de Janeiro envolvidos no Carnaval, além de dados e visualizações sobre blocos e Escolas de Samba, evidenciando o retorno econômico gerado para a cidade e justificando o investimento municipal.",
+    "solucao": "A publicação anual \"Carnaval de Dados\", que consiste em um estudo detalhado que levanta, sistematiza e analisa dados relacionados ao planejamento, operação e impactos econômicos, sociais e culturais do Carnaval. Essa iniciativa promove a transparência da gestão pública e serve de base para o desenvolvimento de políticas públicas, como o projeto Samba Pass.",
+    "metodologia": "Aplicação da metodologia GTT (Grupo Transversal de Trabalho) pelo Instituto Fundação João Goulart, com uma equipe de Líderes Cariocas responsável pelo levantamento, sistematização e análise dos dados. As fontes de dados incluem notas fiscais de serviços da Secretaria Municipal de Fazenda (SMF), informações de 23 órgãos da Administração Pública Municipal (solicitadas via e-mail e formulários eletrônicos), dados do Centro de Operações Rio e da Riotur, além de informações complementares da imprensa.",
+    "profissionais_tecnicos": [
+        "Líderes Cariocas",
+        "Analistas de Dados",
+        "Pesquisadores",
+        "Economistas",
+        "Designers/Diagramadores",
+        "Coordenadores de Projeto",
+        "Jornalistas/Assessores de Comunicação",
+        "Especialistas em Políticas Públicas"
+    ],
+    "area_expertise": "Gestão Pública"
+}
