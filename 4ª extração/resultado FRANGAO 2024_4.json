@@ -1,0 +1,35 @@
+{
+    "problema": "A desigualdade socioeconômica na cidade do Rio de Janeiro, evidenciada pela discrepância no poder de compra e comprometimento da renda familiar com itens essenciais ou culturalmente significativos como o frango assado, e a necessidade de dados atualizados e localizados para informar políticas públicas.",
+    "objetivo": "Analisar e comunicar o comprometimento de renda da população carioca com a compra de frango assado por bairro, visando identificar disparidades econômicas, inspirar políticas públicas e estratégias de mercado, e fornecer uma ferramenta interativa para análise de dados aos cidadãos.",
+    "solucao": "O \"Índice Frangão Carioca\", um indicador numérico que relaciona o preço médio do frango assado com a renda média domiciliar per capita por bairro, complementado pelo \"Painel do Índice Frangão Carioca\", uma ferramenta online interativa para visualização e análise de dados.",
+    "metodologia": "Coleta de dados de preços de frango assado de estabelecimentos no iFood utilizando centróides geográficos e palavras-chave. Tratamento de dados incluindo cálculo da renda média domiciliar per capita ajustada para 2024 (baseado em PNadC IBGE, Censo 2010 IBGE e IPCA acumulado) e o cálculo do Índice Frangão Carioca. As análises de dados envolveram abordagens descritivas e comparativas, com uso extensivo de visualização gráfica de dados.",
+    "evidencias_tecnicas": [
+        "iFood",
+        "Lei Eleitoral nº 9.504/1997",
+        "IPCA (Índice de Preços ao Consumidor Amplo)",
+        "PNadC (Pesquisa Nacional por Amostra de Domicílios Contínua)",
+        "Censo de 2010 (IBGE)",
+        "Objetivos de Desenvolvimento Sustentável (ODS 8, ODS 10)",
+        "G20",
+        "Labour 20 (L20)",
+        "Organização Internacional do Trabalho (OIT)",
+        "Power BI",
+        "Média estatística",
+        "Análise descritiva",
+        "Análise comparativa",
+        "Dashboard",
+        "Planilha"
+    ],
+    "raciocinio_perfis": "As competências exigidas incluem a coleta e tratamento rigoroso de grandes volumes de dados de fontes diversas (plataformas de delivery, órgãos oficiais de estatística), a aplicação de métodos estatísticos e econométricos para ajuste de renda e cálculo de índices (IPCA, PNadC, Censo), a análise e interpretação de dados econômicos e sociais, a criação de visualizações interativas (Power BI) e a capacidade de conectar os resultados a contextos mais amplos de políticas públicas e desenvolvimento urbano. Essas tarefas demandam conhecimentos especializados em economia, estatística, ciência de dados e gestão/análise de políticas públicas.",
+    "profissionais_tecnicos": [
+        "Analista de Dados",
+        "Cientista de Dados",
+        "Economista",
+        "Estatístico",
+        "Analista de Business Intelligence",
+        "Gestor Público",
+        "Urbanista",
+        "Especialista em Políticas Públicas"
+    ],
+    "area_expertise": "Economia Urbana, Análise de Dados Governamentais e Políticas Públicas"
+}

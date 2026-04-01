@@ -22,7 +22,19 @@ class AnaliseDocumento(BaseModel):
     objetivo: str = Field(description="O objetivo principal ou propósito do documento.")
     solucao: str = Field(description="A solução central proposta ou implementada para resolver o problema.")
     metodologia: str = Field(description="Resumo da metodologia, métodos ou passos utilizados.")
-    profissionais_tecnicos: List[str] = Field(description="Lista com os cargos ou profissionais técnicos que são necessários para realizar o estudo ou relatório analisado.")
+    # --- Campos de Raciocínio (Chain-of-Thought) ---
+    evidencias_tecnicas: List[str] = Field(
+        description="Lista de ferramentas (ex: Python, SIG, Excel), leis, normas técnicas ou métodos estatísticos citados explicitamente no texto."
+    )
+    raciocinio_perfis: str = Field(
+        description="Explique brevemente por que as competências citadas no texto exigem perfis específicos, conectando as ferramentas aos cargos."
+    )
+    # -----------------------------------------------
+
+    profissionais_tecnicos: List[str] = Field(
+        description="Lista final com os cargos ou formações (ex: Analista de Dados, Urbanista, Gestor Público) qualificados para executar este trabalho."
+    )
+    area_expertise: str = Field(description="A área macro de expertise (Ex: Engenharia de Software, Saúde Pública, Economia, etc).")
     area_expertise: str = Field(description="A área macro de expertise (Ex: Engenharia de Software, Saúde Pública, Agronomia, etc).")
 
 # 3. TEXTO DE TESTE
@@ -55,9 +67,16 @@ def analisar_documento(texto: str):
     # Recomendação: usar o gemini-1.5-pro para raciocínio complexo em textos longos.
     # O gemini-1.5-flash é mais barato/rápido, mas para essa etapa inicial o 'pro' é melhor.
     
-    # O prompt instrui o que ele deve fazer de forma geral
-    prompt = f"Leia o documento abaixo e extraia as informações solicitadas.\n\nDocumento:\n{texto}"
+# Prompt otimizado para o raciocínio em etapas
+    instruction = (
+        "Você é um especialista em análise de documentos técnicos e gestão pública da cidade do Rio de Janeiro. "
+        "Para identificar os profissionais, primeiro procure por pistas no texto como: "
+        "softwares mencionados, referências a leis, termos estatísticos ou jargões específicos. "
+        "Use essas evidências para deduzir os cargos técnicos mais adequados (ex: se cita IPTU e análise de regressão, "
+        "considere Economistas ou Auditores; se cita Python e People Analytics, considere Cientistas de Dados)."
+    )
     
+    prompt = f"{instruction}\n\nAnalise o documento abaixo e extraia as informações:\n\nDocumento:\n{texto}"
     # É aqui que a mágica acontece. Passamos o schema do Pydantic para a API.
     resposta = client.models.generate_content(
             model='gemini-2.5-flash',
@@ -83,8 +102,11 @@ if __name__ == "__main__":
             # 2. Manda o texto para a IA
             resultado_json = analisar_documento(texto_do_pdf)
             
-            # 3. Exibe o resultado
+ 
             dados_extraidos = json.loads(resultado_json)
+            # 3. Exibe o resultado
+
+            
             print("\n--- RESULTADO DA EXTRAÇÃO ---")
             print(json.dumps(dados_extraidos, indent=4, ensure_ascii=False))
             
