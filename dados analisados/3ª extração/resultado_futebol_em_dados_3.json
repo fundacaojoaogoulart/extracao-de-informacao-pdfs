@@ -1,0 +1,16 @@
+{
+    "problema": "A falta de sistematização e análise de dados para compreender e gerenciar os complexos impactos econômicos, operacionais e socioculturais gerados por eventos de futebol profissional na cidade do Rio de Janeiro, resultando em desafios no planejamento coordenado entre múltiplos atores públicos e na tomada de decisões estratégicas para a organização urbana.",
+    "objetivo": "Reunir, sistematizar e analisar dados que permitam compreender os impactos econômicos, operacionais e socioculturais dos eventos de futebol profissional na cidade, consolidando uma base de conhecimento para subsidiar políticas públicas mais eficientes, aprimorar a gestão municipal e potencializar os benefícios que o futebol pode proporcionar à cidade.",
+    "solucao": "A criação de uma estrutura de governança interinstitucional contínua (Comitê Interinstitucional de Gestão de Jogos e Grandes Eventos), a institucionalização de uma Matriz de Responsabilidades Operacionais clara para os órgãos envolvidos, e o desenvolvimento da plataforma 'Rio em Jogo' para integração de dados territoriais, visando um planejamento, execução e avaliação de ações públicas mais eficazes e orientadas por dados.",
+    "metodologia": "Metodologia combinada de análises quantitativas e qualitativas, utilizando dados de fontes oficiais e confiáveis (CBF, FERJ, Sports Value, Pluri Consultoria, Google Trends, Transfermarkt), estudos acadêmicos e informações internas de diversos órgãos municipais (obtidas via ofícios, reuniões e repositórios como Data.Rio), organizadas em eixos econômicos, socioculturais e operacionais. Incluiu análise comparativa dos clubes e foco territorial nos principais estádios, com apoio de ferramentas de geoprocessamento e um dashboard em Power BI.",
+    "profissionais_tecnicos": [
+        "Arquiteto e Urbanista",
+        "Especialista em Sistemas de Informações Geográficas (SIG) e Gestão de Projetos",
+        "Geógrafo e Analista de Dados",
+        "Historiador e Especialista em Políticas Socioculturais",
+        "Pedagogo",
+        "Advogado e Especialista em Planejamento Urbano",
+        "Historiador e Cientista Social"
+    ],
+    "area_expertise": "Gestão Pública Urbana e Esportiva"
+}

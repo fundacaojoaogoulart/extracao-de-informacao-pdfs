@@ -1,0 +1,17 @@
+{
+    "problema": "A discrepância significativa no custo de um item alimentar básico (frango assado) em relação à renda per capita entre diferentes bairros do Rio de Janeiro, evidenciando desigualdades econômicas e sociais e o impacto dessa escolha no orçamento das famílias cariocas.",
+    "objetivo": "Compreender e mensurar o comprometimento de renda dos cariocas com a compra de frango assado por bairro, identificar disparidades econômicas e sociais dentro da cidade do Rio de Janeiro, e inspirar políticas públicas e estratégias de mercado para abordar essas desigualdades.",
+    "solucao": "Desenvolvimento e aplicação do \"Índice Frangão Carioca\", uma razão numérica que relaciona o preço médio do frango assado e a renda média domiciliar per capita por bairro. A solução inclui a criação de um Painel online interativo para visualização e análise de dados, permitindo que cidadãos e gestores gerem suas próprias análises.",
+    "metodologia": "A metodologia envolveu a coleta de dados de preços de frangos assados (incluindo acompanhamentos padronizados e descontos) diretamente da plataforma iFood, utilizando endereços de centróides de bairros. Os dados foram tratados para calcular a renda média domiciliar per capita ajustada para 2024 (usando dados da PNADc 2023, Censo 2010 do IBGE e IPCA) e para calcular o Índice Frangão Carioca (preço médio do frango dividido pela renda média do bairro, multiplicado por 100). As análises incluíram abordagens descritivas, comparativas e visualização gráfica de dados (gráficos de barras e dashboards em Power BI).",
+    "profissionais_tecnicos": [
+        "Presidente de Instituto",
+        "Head de Laboratório",
+        "Coordenador de Dados e Comportamento",
+        "Assessor",
+        "Estagiário",
+        "Jovem Aprendiz",
+        "Economista",
+        "Designer"
+    ],
+    "area_expertise": "Economia Urbana e Social, Análise de Dados e Políticas Públicas"
+}

@@ -73,7 +73,7 @@ def analisar_documento(texto: str):
 
 if __name__ == "__main__":
     # Substitua pelo nome ou caminho do seu arquivo PDF real
-    caminho_do_meu_pdf = "documentos/Carnaval-de-Dados-2026.pdf" 
+    caminho_do_meu_pdf = "documentos/INDICE-FRANGAO-CARIOCA-2024.pdf" 
     
     if os.path.exists(caminho_do_meu_pdf):
         # 1. Extrai o texto do PDF
